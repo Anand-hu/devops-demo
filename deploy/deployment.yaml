@@ -17,6 +17,6 @@ metadata:
                                                                 spec:
                                                                         containers:
                                                                                 - name: devops
-                                                                                        image: anand0420/devops-demo:v1
+                                                                                        image: anand0420/devops-demo:v20250703200002
                                                                                                 ports:
                                                                                                           - containerPort: 80
